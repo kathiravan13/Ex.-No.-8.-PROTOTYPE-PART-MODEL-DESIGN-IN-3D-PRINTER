@@ -51,8 +51,8 @@
 
 ![image](https://github.com/Gopika-9266/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/122762773/42d9e5af-f532-4766-96c9-926757824835)
 
-### Name: ARHAM S
-### Register Number: 212222110005
+### Name: KATHIRAVAN.P
+### Register Number: 212222230063
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
